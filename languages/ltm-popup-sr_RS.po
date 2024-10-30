@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LTM contact form\n"
+"POT-Creation-Date: 2014-05-03 18:35-0500\n"
+"PO-Revision-Date: 2014-09-22 14:59+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: johnmann.org <www.johnmann.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ltm-popup-form.php:62
+msgid "Your Name"
+msgstr "Vaše ime"
+
+#: ../ltm-popup-form.php:68
+msgid "Your Email"
+msgstr "Vaš email"
+
+#: ../ltm-popup-form.php:153
+msgid "Message sent successfully."
+msgstr "Poruka uspešno poslata"
+
+#: ../ltm-popup-form.php:157
+msgid "Please enter your name and email."
+msgstr "Molimo vas, unesite svoje ime i email"
+
+#: ../ltm-popup-form.php:162
+msgid "Unauthorized attempt"
+msgstr "Neovlašćen pokušaj"
+
+#: ../ltm-popup-setting.php:6
+msgid "LTM Popup Form"
+msgstr "LTM Popup Form"
+
+#: ../ltm-popup-setting.php:7
+msgid "Popup email setting"
+msgstr "Popup email podešavanje"
+
+#: ../ltm-popup-setting.php:10
+msgid "Email address"
+msgstr "Email adresa"
+
+#: ../ltm-popup-setting.php:12
+msgid "Please enter admin email address to receive mails."
+msgstr ""
+"Unesite email adresu administratora da biste primali elektronsku poštu."
+
+#: ../ltm-popup-setting.php:14
+msgid "Email subject"
+msgstr "Predmet email-a"
+
+#: ../ltm-popup-setting.php:16
+msgid "Please enter mail subject."
+msgstr "Unesite predmet email-a"
+
+#: ../ltm-popup-setting.php:18
+msgid "Link Text"
+msgstr "Tekst linka"
+
+#: ../ltm-popup-setting.php:20
+msgid ""
+"This box is to add the contact us Text, Entered value will display in the "
+"front end."
+msgstr ""
+"Ovaj okvir služi za upisivanje teksta za kontakt. Uneta vrednost prikazivaće "
+"se na front end-u."
+
+#: ../ltm-popup-setting.php:23
+msgid "Popup widget setting"
+msgstr "Popup widget podešavanje"
+
+#: ../ltm-popup-setting.php:25
+msgid "Popup Background Color"
+msgstr "Boja Popup pozadine"
+
+#: ../ltm-popup-setting.php:28
+msgid "Popup Background Hover Color"
+msgstr "Boja Popup pozadine kad pređete mišem "
+
+#: ../ltm-popup-setting.php:31
+msgid "Popup Text Color"
+msgstr "Boja Popup teksta"
+
+#: ../ltm-popup-setting.php:34
+msgid "Popup title"
+msgstr "Popup naslov"
+
+#: ../ltm-popup-setting.php:36
+msgid "Please enter popup box title."
+msgstr "Unesite naslov Popup okvira"
+
+#: ../ltm-popup-setting.php:38
+msgid "Popup Message"
+msgstr "Popup poruka"
+
+#: ../ltm-popup-setting.php:40
+msgid "Please enter message for your box."
+msgstr "Unesite poruku za svoj okvir."
+
+#: ../ltm-popup-setting.php:42
+msgid "Popup Button Text"
+msgstr "Tekst Popup tastera"
+
+#: ../ltm-popup-setting.php:44
+msgid "Please enter text for submit button."
+msgstr "Unesite tekst za taster “Podnesi”."
+
+#: ../ltm-popup-setting.php:46
+msgid "Popup Button Color"
+msgstr "Boja Popup tastera"
+
+#: ../ltm-popup-setting.php:49
+msgid "On home page display"
+msgstr "Prikaži na početnoj stranici"
+
+#: ../ltm-popup-setting.php:54
+msgid "Select YES if you need to display on home page."
+msgstr "Odaberite opciju DA ako treba da prikažete na početnoj stranici."
+
+#: ../ltm-popup-setting.php:56
+msgid "On posts display"
+msgstr "Prikaži na postovima"
+
+#: ../ltm-popup-setting.php:61
+msgid "Select YES if you need to display on posts."
+msgstr "Odaberite opciju DA ako treba da prikažete na postovima."
+
+#: ../ltm-popup-setting.php:63
+msgid "On pages display"
+msgstr "Prikaži na stranicama"
+
+#: ../ltm-popup-setting.php:68
+msgid "Select YES if you need to display on wordpress pages."
+msgstr "Odaberite opciju DA ako treba da prikažete na wordpress stranicama."
+
+#: ../ltm-popup-setting.php:70
+msgid "On search page display"
+msgstr "Prikaži na stranici za pretragu"
+
+#: ../ltm-popup-setting.php:75
+msgid "Select YES if you need to display on search pages."
+msgstr "Odaberite opciju DA ako treba da prikažete na stranicama za pretragu."
+
+#: ../ltm-popup-setting.php:77
+msgid "On archive page display"
+msgstr "Prikaži na stranici za arhivu"
+
+#: ../ltm-popup-setting.php:82
+msgid "Select YES if you need to display on archive pages."
+msgstr "Odaberite opciju DA ako treba da prikažete na stranicama arhive."
+
+#: ../ltm-popup-setting.php:85
+msgid "Update All Details"
+msgstr "Ažuriraj sve detalje"
